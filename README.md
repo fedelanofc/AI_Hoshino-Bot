@@ -1,4 +1,4 @@
-<h1 align="center">AI_Hoshino-Bot </p>
+<h1 align="center">✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ </p>
 <p>
         <img src= "https://files.catbox.moe/m6rjlq.jpg">
     </p>
@@ -71,4 +71,4 @@
 
 <a href="https://github.com/fedelanofc"><img src="https://github.com/fedelanofc.png" width="300" height="300" alt="fedelan"/></a>
 
-`© Ai _ Hoshino - Bot / Starlights Team Bot_ by fedelan`
+`© AI_Hoshino-Bot / by fedelan`
