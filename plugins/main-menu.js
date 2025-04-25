@@ -29,7 +29,7 @@ const defaultMenu = {
   before: `
   *─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-“ Hola *%name* soy *Ai Hoshino*, %greeting ”
+“ Hola *%name* soy *AI Hoshino*, %greeting ”
 
 ╭── ︿︿︿︿︿ *⭒   ⭒   ⭒   ⭒   ⭒   ⭒*
 ┊ ‹‹ *Hello* :: *%name*
