@@ -1,6 +1,6 @@
-<h1 align="center">【 ✯ Ai _ Hoshino - Bot ✰ 】</p>
+<h1 align="center">Ai _ Hoshino - Bot </p>
 <p>
-        <img src= "https://i.ibb.co/C5DNBRH/file.jpg">
+        <img src= "https://files.catbox.moe/m6rjlq.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
