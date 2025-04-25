@@ -23,10 +23,10 @@ global.prems = []
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "AI Hoshino",\n     "author": "𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
-global.botname = '✯ AI Hoshino - Bot ✰'
+global.botname = '✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰'
 global.textbot = `Powered By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 ✯ 𝐒𝐭𝐚𝐫𝐥𝐢𝐠𝐡𝐭𝐬 𝐓𝐞𝐚𝐦 𝐁𝐨𝐭𝐬 ✰ - Oficial Chanel ✰ 】'
+global.namechannel = '【✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ - Oficial Chanel ✰ 】'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
