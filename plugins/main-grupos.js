@@ -6,13 +6,13 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 let txt = `*Hola!, te invito a unirte a los grupos oficiales de del Bot para convivir con la comunidad :D*
 
-1- 【 ✯ Starlights Team ✰ 】
+1- 【 ✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ 】
 *✰* ${global.group}
 
-2- 【 ✯ Starlights Team ✰ 】- ll
+2- 【 ✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ 】- ll
 *✰* ${global.group2}
 
-3- 【 ✯ Starlights Team ✰ 】- lll
+3- 【 ✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ 】- lll
 *✰* ${global.group3}
 
 *─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ*
