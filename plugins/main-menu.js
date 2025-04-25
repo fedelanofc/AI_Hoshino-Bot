@@ -29,11 +29,11 @@ const defaultMenu = {
   before: `
   *─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-“ Hola *%name* soy *AI Hoshino*, %greeting ”
+“ Hola *%name* soy *𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃*, %greeting ”
 
 ╭── ︿︿︿︿︿ *⭒   ⭒   ⭒   ⭒   ⭒   ⭒*
 ┊ ‹‹ *Hello* :: *%name*
-┊•*⁀➷ °⭒⭒⭒ *【 ✯ Starlights Team ✰ 】*
+┊•*⁀➷ °⭒⭒⭒ *【✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰】*
 ╰─── ︶︶︶︶ ✰⃕  ⌇ *⭒ ⭒ ⭒*   ˚̩̥̩̥*̩̩͙✩
 ┊🍬 [ *Modo* :: *Público*
 ┊📚 [ *Baileys* :: *Multi Device*
