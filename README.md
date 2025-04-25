@@ -1,4 +1,4 @@
-<h1 align="center">【 ✯ Ai Hoshino - MD ✰ 】</p>
+<h1 align="center">【 ✯ Ai _ Hoshino - Bot ✰ 】</p>
 <p>
         <img src= "https://i.ibb.co/C5DNBRH/file.jpg">
     </p>
@@ -50,13 +50,13 @@
 
 - Si quieres probar la Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/CqdWTXmS702JD31SQzr0Ph"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/CewLVWUzrWIJuCnvCCuh5g"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=StarlightsTeam&repo=Ai-Hoshino&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=fedelanofc&repo=AI_Hoshino-Bot&theme=chartreuse-dark)
 
 ---------
 
@@ -69,6 +69,6 @@
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/IrokzDal"><img src="https://github.com/IrokzDal.png" width="300" height="300" alt="Irokz Dal ダーク"/></a>
+<a href="https://github.com/fedelanofc"><img src="https://github.com/fedelanofc.png" width="300" height="300" alt="fedelan"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By Irokz Dal ダーク`
+`© Ai _ Hoshino - Bot / Starlights Team Bot_ by fedelan`
