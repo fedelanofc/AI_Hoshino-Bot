@@ -25,7 +25,7 @@
 ### **`🗯 INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **AI_Hoshino-Bot si desean activar a AI_Hoshino-Bot pueden activarlo en un servidor.**
+> **Si desean activar a AI_Hoshino-Bot pueden activarlo en un servidor.**
 
 ---------
 
