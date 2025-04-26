@@ -5,12 +5,12 @@ let img = await (await fetch(`https://tinyurl.com/2c5hk765`)).buffer()
 
   const canales = [
     {
-      id: "120363191779210764@newsletter",
-      nombre: "【 ✯ Starlights Team - Oficial Chanel ✰ 】",
+      id: "120363400665990810@newsletter",
+      nombre: "【 ✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰ 】",
     },
     {
-      id: "120363352146629838@newsletter",
-      nombre: "✰ Let Go Vibes World ダーク",
+      id: "120363400665990810@newsletter",
+      nombre: "✯ 𝙰𝙸_𝙷𝙾𝚂𝙷𝙸𝙽𝙾-𝙱𝙾𝚃 ✰",
     },
   ]
 
