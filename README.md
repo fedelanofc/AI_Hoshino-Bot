@@ -21,7 +21,7 @@
 </h1>
 
 ---------
-
+<p>
 ## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Características
 
 > Bot en creación pronto se agregaran más cosas 
