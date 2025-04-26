@@ -73,4 +73,4 @@
 
 <a href="https://github.com/fedelanofc"><img src="https://github.com/fedelanofc.png" width="300" height="300" alt="fedelan"/></a>
 
-`© AI_Hoshino-Bot / by fedelan`
+`© AI_Hoshino-Bot / by fedelan'
